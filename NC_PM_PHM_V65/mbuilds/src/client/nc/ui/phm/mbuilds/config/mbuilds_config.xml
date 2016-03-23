@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gbk"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<import resource="classpath:nc/ui/pmpub/config/frame_config.xml" />
+	<import resource="classpath:nc/ui/pmpub/config/action_config.xml" />
+	<import resource="classpath:nc/ui/pmpub/config/mediator_config.xml" />
+	
+	
+</beans>
