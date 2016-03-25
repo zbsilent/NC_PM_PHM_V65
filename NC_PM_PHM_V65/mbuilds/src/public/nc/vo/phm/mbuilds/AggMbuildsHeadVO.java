@@ -34,5 +34,7 @@ public class  AggMbuildsHeadVO extends AbstractBill {
 		// TODO Auto-generated method stub
 		return (MbuildsHeadVO)super.getParentVO();
 	}
+	
+	
  
 }
